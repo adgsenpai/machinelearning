@@ -2,9 +2,9 @@
 All my machine learning projects using python
 
 # Requirements {Packages} 
-numpy
-sklearn
-tkinter
+numpy   
+sklearn   
+tkinter   
 
 # Installation
 pip3 install {package name}
